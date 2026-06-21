@@ -8,8 +8,7 @@ spinner, markdown rendering, slash-commands, and source inspection.
 
 Requirements:
     pip install langchain langchain-community langchain-chroma \
-        langchain-huggingface langchain-ollama pypdf sentence-transformers \
-        rich prompt_toolkit
+        langchain-ollama pypdf sentence-transformers rich prompt_toolkit
 
     Install Ollama from https://ollama.com, then:
         ollama pull llama3.1:8b
