@@ -1,0 +1,6 @@
+.DS_Store
+chroma_db/chroma.sqlite3
+chroma_db/d45782fe-a0c8-4d08-8a92-5c0a3597b1ad/data_level0.bin
+chroma_db/d45782fe-a0c8-4d08-8a92-5c0a3597b1ad/header.bin
+chroma_db/d45782fe-a0c8-4d08-8a92-5c0a3597b1ad/length.bin
+chroma_db/d45782fe-a0c8-4d08-8a92-5c0a3597b1ad/link_lists.bin
